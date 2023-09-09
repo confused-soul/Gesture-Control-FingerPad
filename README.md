@@ -1,5 +1,6 @@
 # Gesture-Control-FingerPad
-A Music Instrument Project built with integrating Arduino - Electronic Multi-controller  Hardware and Supercollider - Audio Synthesis Software
+
+A Music Instrument Project built with integrating Arduino - Electronic Multi-controller Hardware and Supercollider - Audio Synthesis Software
 
 The Gesture Control Finger Pad is a wearable glove that provides an interactive audio experience based on hand gestures. The glove detects various hand movements and translates them into different tones and sounds. This project is implemented using Arduino for gesture detection and Supercollider software for generating audio tones.
 
@@ -10,7 +11,6 @@ The Gesture Control Finger Pad is a wearable glove that provides an interactive 
 <b>Interactive Experience:</b> Users can experiment with various hand movements to create unique auditory outputs.
 <b>Arduino Integration:</b> Arduino is utilized for gesture recognition and controlling audio playback.
 <b>Supercollider Implementation:</b> Supercollider software is used to synthesize and control the audio output.
-
 
 <h2>Setup and Components:</h2>
 
