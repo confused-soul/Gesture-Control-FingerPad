@@ -39,3 +39,4 @@ This project was inspired by the idea of combining gesture recognition with audi
 
 -Note :
 Please ensure you have the required libraries and software tools installed before uploading the code to the respective platforms. Adjust the pins and parameters as needed based on your hardware setup.
+Author - Md Yasir Khan
